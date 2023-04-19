@@ -238,8 +238,8 @@ input{
 }
 
 .home__img{
-	width: 90%;
-	height: 380px;
+	width: 70%;
+	height: 300px;
 	object-fit: cover;
 	border-radius: 0.3rem;
 	transform: translateY(3.125rem);
